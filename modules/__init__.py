@@ -1,0 +1,1 @@
+# ResearchMind modules package initialization
